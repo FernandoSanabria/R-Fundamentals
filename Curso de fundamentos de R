@@ -1,0 +1,16 @@
+*** Fundamentos de R
+
+
+View(dataset)
+?mtcars
+install.packages("plyr")
+install.packages("plotly"
+dplyr
+ggplot2
+RccolorBrewer
+stringr
+knitr
+RMarkDown
+
+
+
